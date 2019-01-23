@@ -1,5 +1,5 @@
 # YourOwnFaceRecognition
-Probably the clearest example of face recognition using your very own dataset. This project is using Python, Open open-cv and TensorFlow. Yes! Say DEEP LEARNING!
+Probably the clearest example of face recognition using your very own dataset. This project is using Python, open-cv and TensorFlow. Yes! Say DEEP LEARNING!
 
 ## **THE GOAL** 
 The goal is to recognize only you and consider other people (not you) as strangers.
@@ -65,3 +65,5 @@ This project is a combination of both sources.
    - change your label on line 22, 23 according to your file names
 6. **Run modelling.py** to generate model files
 7. **Run deploy2.py** and enjoy how it works!
+
+If you provide variative dataset of your face (different angle, brightness, contrast), it will mostly produce higher accuracy of your image recognition. So, train as many variative photos of yours.
