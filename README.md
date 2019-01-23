@@ -15,30 +15,37 @@ This project is a combination of both sources.
 ## **REQUIREMENTS**
 
 1. **Python**
+   
    I am using python 3.6.4 because the latest version of python is not supported by TensorFlow yet.
    You can download it here https://www.python.org/downloads/
 
 2. **TensorFlow**
+   
    You can read how to install it here https://www.tensorflow.org/install/pip
    I am not using virtual environment and just run `pip install --upgrade tensorflow` did it with no issue for me.
 
 3. **tflearn**
+   
    Deep learning library featuring a higher-level API for TensorFlow used to create layers of our CNN
    run `pip install tflearn` from your cmd 
 
 4. **open-cv**
+   
    To process the image like converting them to grayscale and etc.
    run `pip install opencv-python` 
 
 5. **numpy**
+   
    To process the image matrices
    run `pip install numpy`
 
 6. **tqdm**
+   
    Instantly make your loops show a smart progress meter, just for simple designing sake
    run `pip install tqdm`
 
 7. **imutils**
+   
    run `pip install imutils`
 
    
